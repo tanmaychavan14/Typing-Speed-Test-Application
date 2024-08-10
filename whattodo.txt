@@ -1,0 +1,6 @@
+1)Make a structure or ui/ux
+2)do Css and style part
+3)generate random text
+4)merge the text and input 
+5)count wpm cpm and mistakes , and display time left 
+6) try again button
